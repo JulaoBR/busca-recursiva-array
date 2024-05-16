@@ -1,0 +1,59 @@
+{
+    "expand": "expand_text",
+    "id": "00001",
+    "self": "",
+    "key": "MR-000001",
+    "fields": {
+        "statuscategorychangedate": "2024-05-15T09:02:12.797-0300",
+        "priority": {
+            "self": "self_avatar",
+            "iconUrl": "low.svg",
+            "name": "Victor H",
+            "id": "1"
+        },
+        "labels": [
+            {
+                "self": "self_label_01",
+                "votes": 0,
+                "hasVoted": false
+            },
+            {
+                "self": "self_label_02",
+                "votes": 0,
+                "hasVoted": false
+            },
+            {
+                "self": "self_label_03",
+                "votes": 0,
+                "hasVoted": false
+            },
+            {
+                "self": "self_label_04",
+                "votes": 0,
+                "hasVoted": false
+            }
+        ],
+        "components": {
+            "fields": {
+                "fixVersions": [
+                    {
+                        "key": 1,
+                        "name": "name_1"
+                    },
+                    {
+                        "key": 2,
+                        "name": "name_2"
+                    },
+                    {
+                        "key": 3,
+                        "name": "name_3"
+                    },
+                    {
+                        "key": 4,
+                        "name": "name_4"
+                    }
+                ]
+            }
+        } 
+    }
+}
